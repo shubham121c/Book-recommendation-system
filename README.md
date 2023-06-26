@@ -1,3 +1,3 @@
 # Book-recommendation-system
-BRS end to end project
+BRS end to end project: The collaborative filtering based book recommender project aims to provide personalized book recommendations to users based on their preferences and similarities with other users. By leveraging the power of collaborative filtering, the system analyzes the historical data of users' book ratings and identifies patterns and similarities between users' tastes. The project aims to enhance user engagement and satisfaction by suggesting relevant books that align with their interests.
 <img width="941" alt="BRS" src="https://github.com/shubham121c/Book-recommendation-system/assets/111634009/c960b59a-63b7-40ac-bcf0-bb771c685742">
